@@ -13,7 +13,7 @@ Simple LLM examples
 In the terminal, run the following: (or replace with any of the other examples)
 
 ```
-uv run v1_completion_simple.py
+uv run completions_api/v1_completion_simple.py
 ```
 
 ## Examples
